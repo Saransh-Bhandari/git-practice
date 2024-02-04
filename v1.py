@@ -1,5 +1,4 @@
 '''
-<<<<<<< HEAD
 first line == main branch.
 second line == main branch.
 Third line == main branch.------------------------b1 1st commit
@@ -13,5 +12,4 @@ This is the forth line in the main branch.----------------------b4 1st commit.
                                           ----------------------b4 2nd commit.
                                           ----------------------b4 3rd commit.
                                           ----------------------b4 4th commit.
->>>>>>> 1e591e6 (b4 4th commit)
 '''
