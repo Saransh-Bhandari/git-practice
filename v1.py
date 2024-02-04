@@ -7,4 +7,8 @@ This is the forth line in the main branch.----------------------b4 1st commit.
                                           ----------------------b4 3rd commit.----------------------b5 1st commit.
                                                                               ----------------------b5 2nd commit.
                                                                               ----------------------b5 3nd commit.
+
+                                          ----------------------b4 3rd commit.
+                                          ----------------------b4 4th commit.
+                                        #   stash 3
 '''
